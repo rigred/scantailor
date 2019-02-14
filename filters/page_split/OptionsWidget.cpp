@@ -28,7 +28,7 @@
 #include <QPixmap>
 #include <boost/foreach.hpp>
 #include <assert.h>
-
+#include <QButtonGroup>
 namespace page_split
 {
 
